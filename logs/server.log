@@ -1,0 +1,75 @@
+[2026-06-18 12:47:17] [INFO] ChatServer starting on port 8080
+[2026-06-18 12:47:17] [INFO] Room created: General
+[2026-06-18 12:47:17] [INFO] Room created: Technology
+[2026-06-18 12:47:17] [INFO] Default rooms created: General, Technology
+[2026-06-18 12:47:17] [INFO] Server ready. Listening on port 8080.
+[2026-06-18 12:47:54] [INFO] ChatServer starting on port 8080
+[2026-06-18 12:47:54] [INFO] Room created: General
+[2026-06-18 12:47:54] [INFO] Room created: Technology
+[2026-06-18 12:47:54] [INFO] Default rooms created: General, Technology
+[2026-06-18 12:47:55] [INFO] Server ready. Listening on port 8080.
+[2026-06-18 12:48:11] [INFO] New connection from 127.0.0.1:54674
+[2026-06-18 12:48:11] [INFO] Client connected on socket 296
+[2026-06-18 12:48:45] [INFO] Client disconnected: socket 296, user: (unregistered)
+[2026-06-18 12:48:56] [INFO] New connection from 127.0.0.1:54691
+[2026-06-18 12:48:56] [INFO] Client connected on socket 308
+[2026-06-18 12:49:07] [INFO] User '<Alice>' registered on socket 308
+[2026-06-18 12:49:20] [INFO] New connection from 127.0.0.1:54704
+[2026-06-18 12:49:20] [INFO] Client connected on socket 296
+[2026-06-18 12:49:28] [INFO] User '<Maria>' registered on socket 296
+[2026-06-18 12:49:42] [INFO] New connection from 127.0.0.1:54712
+[2026-06-18 12:49:42] [INFO] Client connected on socket 324
+[2026-06-18 12:49:50] [INFO] User '<Devid>' registered on socket 324
+[2026-06-18 12:50:06] [INFO] [General] <Alice>: clear
+[2026-06-18 12:50:32] [INFO] [General] <Alice>: Hi Devid
+[2026-06-18 12:50:38] [INFO] [General] <Devid>: Hello
+[2026-06-18 12:53:51] [INFO] Room created: Gaming
+[2026-06-18 12:53:51] [INFO] User '<Alice>' created room 'Gaming'
+[2026-06-18 12:55:07] [INFO] [General] <Maria>: hi
+[2026-06-18 12:56:36] [INFO] New connection from 127.0.0.1:54805
+[2026-06-18 12:56:36] [INFO] Client connected on socket 288
+[2026-06-18 12:58:11] [INFO] ChatServer starting on port 8080
+[2026-06-18 12:58:11] [INFO] Room created: General
+[2026-06-18 12:58:11] [INFO] Room created: Technology
+[2026-06-18 12:58:11] [INFO] Default rooms created: General, Technology
+[2026-06-18 12:58:11] [INFO] Server ready. Listening on port 8080.
+[2026-06-18 12:58:47] [INFO] ChatServer starting on port 8080
+[2026-06-18 12:58:47] [INFO] Room created: General
+[2026-06-18 12:58:47] [INFO] Room created: Technology
+[2026-06-18 12:58:47] [INFO] Default rooms created: General, Technology
+[2026-06-18 12:58:47] [INFO] Server ready. Listening on port 8080.
+[2026-06-18 12:58:51] [INFO] New connection from 127.0.0.1:54834
+[2026-06-18 12:58:51] [INFO] Client connected on socket 152
+[2026-06-18 12:58:58] [INFO] New connection from 127.0.0.1:54838
+[2026-06-18 12:58:58] [INFO] Client connected on socket 296
+[2026-06-18 13:00:47] [INFO] New connection from 127.0.0.1:54857
+[2026-06-18 13:00:47] [INFO] Client connected on socket 304
+[2026-06-18 13:01:04] [INFO] User '<John>' registered on socket 152
+[2026-06-18 13:01:10] [INFO] User '<Maria>' registered on socket 296
+[2026-06-18 13:01:16] [INFO] User '<Devid>' registered on socket 304
+[2026-06-18 13:01:22] [INFO] [General] <John>: Hi
+[2026-06-18 13:02:04] [INFO] Room created: Gaming
+[2026-06-18 13:02:04] [INFO] User '<John>' created room 'Gaming'
+[2026-06-18 13:02:14] [INFO] [Gaming] <John>: HI
+[2026-06-18 13:06:10] [INFO] ChatServer starting on port 8080
+[2026-06-18 13:06:10] [INFO] Room created: General
+[2026-06-18 13:06:10] [INFO] Room created: Technology
+[2026-06-18 13:06:10] [INFO] Default rooms created: General, Technology
+[2026-06-18 13:06:10] [INFO] Server ready. Listening on port 8080.
+[2026-06-18 13:06:16] [INFO] New connection from 127.0.0.1:54922
+[2026-06-18 13:06:16] [INFO] Client connected on socket 280
+[2026-06-18 13:06:25] [INFO] New connection from 127.0.0.1:54925
+[2026-06-18 13:06:25] [INFO] Client connected on socket 292
+[2026-06-18 13:06:32] [INFO] New connection from 127.0.0.1:54927
+[2026-06-18 13:06:32] [INFO] Client connected on socket 304
+[2026-06-18 13:06:52] [INFO] User 'John' registered on socket 280
+[2026-06-18 13:06:58] [INFO] User 'maria' registered on socket 292
+[2026-06-18 13:07:03] [INFO] User 'Devid' registered on socket 304
+[2026-06-18 13:07:21] [INFO] [General] John: HI
+[2026-06-18 13:07:42] [INFO] Room created: Gaming
+[2026-06-18 13:07:42] [INFO] User 'John' created room 'Gaming'
+[2026-06-18 13:07:49] [INFO] User 'John' invited 'Devid' to room 'Gaming'
+[2026-06-18 13:08:04] [INFO] User 'Devid' switched to room 'Gaming'
+[2026-06-18 13:08:10] [INFO] [Gaming] Devid: HI
+[2026-06-18 13:08:25] [INFO] [General] maria: Anyone here?
+[2026-06-18 13:08:38] [INFO] [Gaming] Devid: NO

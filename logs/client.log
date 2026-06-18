@@ -1,0 +1,23 @@
+[2026-06-18 12:48:11] [INFO] Connected to 127.0.0.1:8080
+[2026-06-18 12:48:45] [INFO] Client exiting.
+[2026-06-18 12:48:56] [INFO] Connected to 127.0.0.1:8080
+[2026-06-18 12:49:07] [INFO] Registered as '<Alice>' in room 'General'
+[2026-06-18 12:49:20] [INFO] Connected to 127.0.0.1:8080
+[2026-06-18 12:49:28] [INFO] Registered as '<Maria>' in room 'General'
+[2026-06-18 12:49:42] [INFO] Connected to 127.0.0.1:8080
+[2026-06-18 12:49:50] [INFO] Registered as '<Devid>' in room 'General'
+[2026-06-18 12:56:33] [INFO] Client exiting.
+[2026-06-18 12:56:36] [INFO] Connected to 127.0.0.1:8080
+[2026-06-18 12:56:39] [INFO] Client exiting.
+[2026-06-18 12:58:51] [INFO] Connected to 127.0.0.1:8080
+[2026-06-18 12:58:58] [INFO] Connected to 127.0.0.1:8080
+[2026-06-18 13:00:47] [INFO] Connected to 127.0.0.1:8080
+[2026-06-18 13:01:04] [INFO] Registered as '<John>' in room 'General'
+[2026-06-18 13:01:10] [INFO] Registered as '<Maria>' in room 'General'
+[2026-06-18 13:01:16] [INFO] Registered as '<Devid>' in room 'General'
+[2026-06-18 13:06:16] [INFO] Connected to 127.0.0.1:8080
+[2026-06-18 13:06:25] [INFO] Connected to 127.0.0.1:8080
+[2026-06-18 13:06:32] [INFO] Connected to 127.0.0.1:8080
+[2026-06-18 13:06:52] [INFO] Registered as 'John' in room 'General'
+[2026-06-18 13:06:58] [INFO] Registered as 'maria' in room 'General'
+[2026-06-18 13:07:03] [INFO] Registered as 'Devid' in room 'General'
